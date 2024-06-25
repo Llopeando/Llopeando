@@ -9,10 +9,10 @@ Im a programming student in [@42Urduliz](https://www.42urduliz.com/), a programm
 ## ➕ More about me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/unaillorente) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AllPlayedTime) 
-- 🧑‍💻 Im currently studying and doing a Mobile Project called "**ft_hangouts**", which is a simple IRC and a contacts manager, which you can view it here:
+- 🧑‍💻 Im currently studying and doing a Mobile Project called "**ft_hangouts**", which is a simple IRC and a contacts manager, which you can view it here: [https://github.com/Llopeando/ft_hangouts](https://github.com/Llopeando/ft_hangouts)
 - 🐸 In my free time, I make plugins for Minecraft in **Java** and publish them in the SpigotMC platform, which you can see [here](https://www.spigotmc.org/members/xdlob9.44301/#resources).
 - 📫 You can visit [my LinkedIn](https://www.linkedin.com/in/unaillorente/) to get more information about me!
-- 🎢 Fun fact: I love amusement/theme parks and their roller coasters.
+- 🎢 **Fun fact**: I love amusement/theme parks and their roller coasters.
 
 ## 📊 Some of my GitHub Stats:
 | [![Llopeando GitHub stats](https://github-readme-stats.vercel.app/api?username=Llopeando&count_private=true&hide=issues&show_icons=true&theme=merko&hide_border=true)](https://github.com/Llopeando?tab=repositories) | [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Llopeando&layout=compact&theme=merko&hide_border=true)](https://github.com/Llopeando?tab=repositories) |
